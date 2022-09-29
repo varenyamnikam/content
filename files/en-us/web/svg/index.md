@@ -50,7 +50,7 @@ See also, [SVG Tutorial](/en-US/docs/Web/SVG/Tutorial).
 
 ## Examples
 
-- [SVG authoring guidelines](https://jwatt.org/svg/authoring/)
+- [SVG authoring guidelines](https://jwatt.org/svg/authoring/
 - [SVG as an image](/en-US/docs/Web/SVG/SVG_as_an_Image)
 - [SVG animation with SMIL](/en-US/docs/Web/SVG/SVG_animation_with_SMIL)
 - [SVG art gallery](https://www1.plurib.us/svg_gallery/)
